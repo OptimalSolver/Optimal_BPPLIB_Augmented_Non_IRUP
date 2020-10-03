@@ -1,0 +1,7 @@
+from http://or.dei.unibo.it/library/bpplib
+
+BPP format:
+Number of items (n)
+Capacity of the bins (c)
+For each item j (j = 1,...,n):
+Weight (wj)
